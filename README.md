@@ -1,1 +1,2 @@
 This is a Flutter project contains a register and login screen which a user can register and then login and the user will be navigated to a simple dashboard.
+This project has a backend that was created using Djangorest framework.
